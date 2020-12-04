@@ -1,0 +1,23 @@
+.pedidoCard{
+    width: 100%;
+    height: 200px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.resize-img-pedido{
+    height: auto;
+    width:200px;
+}
+
+.marginQtd{
+    margin-left: 100px;
+}
+
+.button-delete-pedido{
+    background-color: red;
+    border:none
+}
+
+.link-pedido{
+    color:#394891;
+}

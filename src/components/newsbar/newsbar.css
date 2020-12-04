@@ -1,0 +1,15 @@
+.newsbar{
+    height: 100px;
+	width: 100%;
+    background-color: #edf0f0;
+    padding-top: 30px;
+}
+.title{
+    margin-left: 60px;
+    font-size: 20px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.emailbar{
+    margin-left: 410px;
+}

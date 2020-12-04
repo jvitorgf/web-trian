@@ -1,0 +1,15 @@
+.card{
+    width: 300px;
+    height: 250px;
+    background-color: #f7f781;
+    color:black;
+    margin-bottom: 100px;
+}
+
+.btn-card{
+    background-color: white;
+}
+.btn-excluir-end{
+    background-color: #e81523;
+    color: white;
+}

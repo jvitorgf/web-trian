@@ -1,0 +1,14 @@
+.add-content{
+    width: 100%;
+    height:100vh;
+    margin: auto;
+    background-color: #394891;
+}
+
+.btn-add-novo-end{
+    background-color: #60f252;
+}
+
+.btn-add-novo-end:hover{
+    background-color: #9bf593;
+}

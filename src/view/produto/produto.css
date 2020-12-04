@@ -1,0 +1,51 @@
+.grid-product{
+    height: 500px;	
+}
+
+
+.proximo{
+    background-color: #394891;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+  }
+  .proximo:hover{
+      background-color: #edf0f0;
+  }
+
+  .resize-product {
+    width:500px;
+    height: auto;
+  }
+
+  .product-text{
+	font-family: 'Poppins', sans-serif;
+}
+
+.prod-title{
+    font-size: 50px;
+}
+
+.prod-desc{
+    font-size: 30px;
+	color: #616963;
+}
+
+.prod-capacidade{
+	margin-top: 50px;
+	font-size: 20px;
+
+}
+
+.prod-preço{
+    margin-top: 50px;
+	font-size: 30px;
+	color: #394891;
+}

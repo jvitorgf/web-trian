@@ -1,0 +1,61 @@
+.header{
+    height: 80px;
+	width: 100%;
+	background-color: #edf0f0;
+}
+
+.header-ctg{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    padding-top: 20px;
+}
+
+.header-links:visited,.header-links:link,.header-links:active {
+    margin-left: 60px;
+	color: #706d6d;
+	text-decoration: none;
+
+}
+
+.header-links:hover{
+	color: #bcc4eb;
+}
+
+#sale:visited,#sale:link,#sale:active{
+	color: #394891;
+	text-decoration: none;
+	margin-left: 60px;
+}
+
+#sale:hover{
+	color: #bcc4eb;
+}
+
+
+.searchbar{
+    margin-left: 60px;
+}
+
+#account{
+    margin-left: 180px;
+}
+
+#cart{
+	width: 25px;
+	height: 25px;
+}
+
+#cart:hover{
+	filter: invert(79%) sepia(23%) saturate(360%) hue-rotate(194deg) brightness(98%) contrast(88%);
+}
+
+.exit{
+	border: none;
+
+}
+
+.button-search{
+	background-color: black;
+	color:white
+	
+}

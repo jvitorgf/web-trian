@@ -1,0 +1,25 @@
+.conta-content{
+    width: 100%;
+    height:100vh;
+    padding: 15%;
+    margin: auto;
+    background-color: #394891;
+}
+
+
+.btn-adm{
+    background-color: white;
+    color: black;
+}
+
+.btn-adm:hover{
+    background-color: black;
+    color:white;
+}
+
+.btn-end{
+    background-color: #5995f0;
+}
+.btn-end:hover{
+    background-color: #b5a7f2;
+}
